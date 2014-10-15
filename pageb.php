@@ -16,4 +16,8 @@ $pw = $_POST['password'];
 
 
   echo '<b>'. $pw . '</b>';
+
+
+// add some comment
+
 ?>
